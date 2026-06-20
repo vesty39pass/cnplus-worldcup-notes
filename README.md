@@ -1,2 +1,14 @@
 # cnplus-worldcup-notes
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
